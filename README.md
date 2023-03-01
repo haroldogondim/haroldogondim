@@ -41,5 +41,5 @@
 <div>
   <a href="https://haroldo.dev">
   <img src="https://github-readme-stats.vercel.app/api?username=haroldogondim&show_icons=true&theme=dark&layout=compact" width="500em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haroldogondim&hide=contribs,prs&theme=dark" width="250em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haroldogondim&hide=contribs,prs&theme=dark&layout=compact" width="350em" />
 </div>
