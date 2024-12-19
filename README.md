@@ -6,7 +6,7 @@
 - 👨🏽‍💻 I'm a DevOps enthusiast
 - 🎮 I had the biggest GTA V Roleplay Server in Brazil between 2019-2020
 - 🧠 I'm fast learner
-- 💨 I'm PHP Specialist and Golang enthusiast. I can learn anything in a very short time (I'm sure you would be impressed)
+- 💨 I'm PHP Specialist and Golang enthusiast.
 - 👨🏽‍🍳 I cook better than my mother (she said)
 - 🌎 I learned English by myself
 
