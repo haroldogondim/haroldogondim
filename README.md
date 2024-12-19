@@ -3,10 +3,10 @@
 
 - 🔭 I work as Full-Stack Developer since 2010
 - ⚡ I'm FullStack Developer for 14 years
-- 👨🏽‍💻 I plan to work with Linux someday
+- 👨🏽‍💻 I'm a DevOps enthusiast
 - 🎮 I had the biggest GTA V Roleplay Server in Brazil between 2019-2020
-- 🧠 I'm fast learner (more than usual)
-- 💨 I'm PHP Specialist. I can learn anything in a very short time (I'm sure you would be impressed)
+- 🧠 I'm fast learner
+- 💨 I'm PHP Specialist and Golang enthusiast. I can learn anything in a very short time (I'm sure you would be impressed)
 - 👨🏽‍🍳 I cook better than my mother (she said)
 - 🌎 I learned English by myself
 
